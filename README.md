@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdinaFakih&show_icons=true&theme=radical)
+
+## 🌐 Let's Connect!
+- LinkedIn: [Adina Fakih](https://www.linkedin.com/in/adina-fakih-8130ab187/)
+- Portfolio: [Digital Wallet Credential](https://www.credential.net/profile/adinafakih215641/wallet)
+- Twitter: [Adina Fakih](https://x.com/AdinaFakih)
